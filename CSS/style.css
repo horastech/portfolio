@@ -293,6 +293,9 @@ footer .container p a:hover{
     .none{
         font-size: 14px;
     }
+    .data i{
+        margin-left: -15px;
+    }
 }
 
 
